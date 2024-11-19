@@ -1,1 +1,1 @@
-# Text2SQL-Dataset
+# Text2SQL-Archive
